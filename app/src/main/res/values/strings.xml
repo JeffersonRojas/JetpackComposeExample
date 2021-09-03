@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mercadolibre</string>
+    <string name="product_item_installments">Pagalo en %1$d cuotas por %2$s cada una</string>
+    <string name="product_detail_available_qty">solo quedan %1$d apresurate y compra el tuyo ya %2$d fueron vendidos</string>
 </resources>
