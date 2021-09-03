@@ -1,4 +1,4 @@
-package com.github.jeffersonrojas.mercadolibre.ui.theme
+package com.github.jeffersonrojas.mercadolibre.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

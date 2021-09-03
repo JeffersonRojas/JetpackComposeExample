@@ -1,4 +1,4 @@
-package com.github.jeffersonrojas.mercadolibre.ui.theme
+package com.github.jeffersonrojas.mercadolibre.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -8,17 +8,17 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 
 private val DarkColorPalette = darkColors(
-    primary = Purple200,
-    primaryVariant = Purple700,
-    secondary = Teal200,
-    background = Color.White,
+    primary = Color.Purple200,
+    primaryVariant = Color.Purple700,
+    secondary = Color.Teal200,
+    onPrimary = Color.White,
 )
 
 private val LightColorPalette = lightColors(
-    primary = Purple500,
-    primaryVariant = Purple700,
-    secondary = Teal200,
-    background = Color.White,
+    primary = Color.Purple500,
+    primaryVariant = Color.Purple700,
+    secondary = Color.Teal200,
+    secondaryVariant= Color.Teal700,
 )
 
 @Composable
