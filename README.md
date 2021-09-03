@@ -1,6 +1,6 @@
 # Jetpack Compose example
 
-this repository is an implementation of Jetpack Compose with a list of products and an internal one
+this repository is an implementation of Jetpack Compose with a search of products using the MercadoLibre Api and an product detail Screen
 
 ## Requirements
 - Android Studio 2020.3.1 Patch 2
@@ -13,3 +13,4 @@ this repository is an implementation of Jetpack Compose with a list of products 
 - https://developer.android.com/jetpack/compose/layouts/basics
 - https://developer.android.com/jetpack/compose/navigation
 - https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose
+- https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas
